@@ -9,6 +9,9 @@ App Prototype Design.xd
 - Used screenshots from Google Maps as the background 
 - Used diagram of Blue Route from UMD's Shuttle/Bus System: https://transportation.umd.edu/sites/default/files/117_Blue.pdf
 - Used screenshot of live UMD Shuttle/Bus Map: https://www.nextbus.com/googleMap/?a=umd&r=104&r=105&r=108&r=109&r=111&r=113&r=114&r=115&r=116&r=117&r=118&r=122&r=126&r=131&r=132&r=133&r=141&r=142&r=143
+- Keyboards screenshotted from a Google Pixel 3a
+
+Prototype Demonstration Video.mp4 - Quick video of prototype
 
 Capture.PNG - Screenshot of Interactive Map Built
 
