@@ -4,7 +4,7 @@ ArcGIS Map for Terp Transit.ipynb
         - Bus Routes Used: Blue route, Campus Connector
 
 App Prototype Design.xd
-- Used Adobe XD to design a flow-chart style, interactive mock up of our final produce
+- Used Adobe XD to design a flow-chart style, interactive mock up of our final product
 - web-viewable link: https://xd.adobe.com/view/aaf3025c-66c2-4c76-8ca1-4f97af65554a-ffa0/
 - Used screenshots from Google Maps as the background 
 - Used diagram of Blue Route from UMD's Shuttle/Bus System: https://transportation.umd.edu/sites/default/files/117_Blue.pdf
